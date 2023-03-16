@@ -1,8 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - main function
- * return : always 0
+ * main - this is the main function
+ *
+ * Return : always 0
  *
  */
 
