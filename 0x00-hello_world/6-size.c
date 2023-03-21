@@ -18,13 +18,13 @@ int main(void)
 
 	long int x;
 
-	long long int;
+	long long int y;
 
-	printf("size of int is: %zu\n", sizeof(int));
-	printf("size of char is: %zu\n", sizeof(char));
-	printf("size of float is: %zu\n", sizeof(float));
-	printf("size of double is: %zu\n", sizeof(double));
-	printf("size of long int is: %zu\n", sizeof(long int));
-	printf("size of long long int is: %zu\n", sizeof(long long int));
+	printf("size of int is: %zu\n", sizeof(i));
+	printf("size of char is: %zu\n", sizeof(c));
+	printf("size of float is: %zu\n", sizeof(f));
+	printf("size of double is: %zu\n", sizeof(w));
+	printf("size of long int is: %zu\n", sizeof(x));
+	printf("size of long long int is: %zu\n", sizeof(y));
 	return (0);
 }
